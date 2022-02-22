@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-01 13:57:15 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-12-01 13:57:16 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-12-01 13:57:16 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-12-01 13:57:17 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-12-01 13:57:17 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-12-01 13:57:18 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-12-01 13:57:18 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-12-01 13:57:18 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-12-01 13:57:19 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-12-01 13:57:19 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-12-01 13:57:19 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-12-01 13:57:20 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-12-01 13:57:20 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-12-01 13:57:21 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-12-01 13:57:21 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-12-01 13:57:21 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-12-01 23:15:58 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-12-01 23:16:03 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-12-01 23:16:03 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-12-01 23:16:03 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-12-01 23:16:04 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-12-01 23:16:04 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-12-01 23:16:05 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-12-01 23:16:05 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-12-01 23:16:05 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-12-01 23:16:06 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-12-01 23:16:06 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-12-01 23:16:07 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-12-01 23:16:07 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-12-01 23:16:07 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-12-01 23:16:08 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-12-01 23:16:08 --> 404 Page Not Found: Sito/wp-includes

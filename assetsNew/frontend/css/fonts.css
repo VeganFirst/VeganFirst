@@ -1,0 +1,53 @@
+@font-face{
+	font-family:ITC Avant Garde Pro Bk;
+	src: url(../fonts/font/ITCAvantGardePro-Bk.otf);
+}
+@font-face{
+	font-family:ITC Avant Grade Pro XLT;
+	src: url(../fonts/font/ITCAvantGardePro-XLt.otf);
+}
+
+@font-face{
+	font-family:ITC Avant Grade Pro Md;
+	src: url(../fonts/font/ITCAvantGardePro-Md.otf);
+}
+
+
+@font-face{
+	font-family:Libre Baskerville;
+	src: url(../fonts/font/LibreBaskerville-Bold.ttf);
+}
+
+
+@font-face{
+	font-family:Perfograma;
+	src: url(../fonts/font/font/Perfograma.otf);	
+}
+@font-face{
+	font-family:Bebas;
+	src: url(../fonts/font/font/BEBAS_.ttf);	
+}
+
+@font-face{
+	font-family:Open Sans;
+	src: url(../fonts/opensansfont/OpenSans-Bold.ttf);	
+}
+
+@font-face{
+	font-family:Open Sans Semibold;
+	src: url(../fonts/opensansfont/OpenSans-Semibold.ttf);	
+}
+
+
+@font-face{
+	font-family:Open Sans Light;
+	src: url(../fonts/opensansfont/OpenSans-Light.ttf);	
+}
+@font-face{
+	font-family:Open Sans Regular;
+	src: url(../fonts/opensansfont/OpenSans-Regular.ttf);	
+}
+
+
+
+
