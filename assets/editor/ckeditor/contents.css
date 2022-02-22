@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400');
+@font-face {
+	font-family:Cervo Regular;
+	src:url(cervo-regular.otf);
+}
+
+body
+{
+    font-family: 'Source Sans Pro', sans-serif;
+	color: #333;
+	background-color: #fff;
+	margin: 20px;
+	font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.cke_editable
+{
+	font-size: 16px;
+	line-height: 1.6em;
+}
+.cke_editable h1,.cke_editable h2,.cke_editable h3,.cke_editable h4,.cke_editable h5,.cke_editable h6{font-family: Cervo Regular !important;
+    font-size: 18px !important;
+    letter-spacing: 1px !important;
+    color: #e2725b !important;
+    text-transform: uppercase;
+}
+
+blockquote{
+    padding: 20px 30px;
+    font-size: inherit;
+    border-left: 0;
+    background: #000;
+    color: #fff;
+}
+.artrmsp{ font-size:26px;line-height: 32px;}
+	.artrmsp:after{ height: 2px;
+    display: block;
+    width: 100%;
+    background: #000;
+    content: '';
+    margin: 0 0 10px 0;}
+	.blackbg{background: #000;
+    color: #fff;padding: 5px 10px 0 10px;}
+	
+	.artrmsp span:nth-child(2){ padding-left:10px;}
+
+
+a
+{
+	color: #0782C1;
+}
+
+ol,ul,dl
+{
+	*margin-right: 0px;
+	padding: 0 40px;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	font-weight: normal;
+	line-height: 1.2em;
+}
+
+hr
+{
+	border: 0px;
+	border-top: 1px solid #ccc;
+}
+
+img.right {
+    border: 1px solid #ccc;
+    float: right;
+    margin-left: 15px;
+    padding: 5px;
+}
+
+img.left {
+    border: 1px solid #ccc;
+    float: left;
+    margin-right: 15px;
+    padding: 5px;
+}
+
+img:hover {
+	opacity: .9;
+	filter: alpha(opacity = 90);
+}
+
+pre
+{
+	white-space: pre-wrap; /* CSS 2.1 */
+	word-wrap: break-word; /* IE7 */
+}
+
+.marker {
+    background-color: Yellow;
+}
